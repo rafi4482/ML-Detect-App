@@ -1,0 +1,1 @@
+App made using Machine Learning apparel detection Clarifi api and ReactJS for frontend
